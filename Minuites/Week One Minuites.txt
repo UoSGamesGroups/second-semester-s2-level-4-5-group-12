@@ -1,0 +1,39 @@
+Week One Meeting
+
+Members present-All
+
+Summary of first meeting:
+Presentation was somewhat unclear on which idea we had chosen. Chris suggested looking into soft body
+physics for the water.It was also suggested that we should have opened with some of the rejected ideas.
+
+
+First Meeting
+Decided we would use a pixilated art style.Research is clearly needed into different ways to simulate
+water and water physics.
+
+
+Tasks:
+
+Elliot:
+Research into different methods of simulating water physics, including soft body. Time: 2 Hours
+Protoype a basic version of the game using Rigid body physics, perhaps also testing expanding colliders to avoid water being scattered upon launch? Time: 4 hours
+
+River:
+Setup a basic file structure for github, Assets, art, ect. Also setup the sprint for Jira. Time: 1 hour
+Come up with ideas for spinners/wall items for use in game. Time: 1 hour
+Find possible sound assets for anything usable in game. Time: 3 hours
+Research anything else that could be relevant. Time: 1 hour
+
+Joe:
+Research into pixel art, find a style that could fit the game. Time: 2 hours
+Researcg themes for the game, find a theme (eg, carnival, industrial ect) that would fit the game well. Time:2 hours
+Research colour schemes for the game, find a mood that would work and get a colour pallette together. Time: 2 hours
+
+Douglas:
+Create placeholder assets for prototyping the game with. Time: 2 hours
+Shift minuites into folder. Time: N/A
+Come up with ideas for spinners/wall items for use in game. Time: 1 hour
+Finalize/come up with new ideas for power ups. Time: 1 hour
+Find possible sound assets for anything usable in game. Time: 1 hour
+Research anything else that could be relevant. Time: 1 hour
+
