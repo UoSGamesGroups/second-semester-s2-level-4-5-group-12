@@ -1,0 +1,66 @@
+List of all power ups and how they would work. The 'priority' rating is how much focus should be
+placed on getting them to work and into the game. Lower priority power ups might be harder to code,
+or perhaps a bit too strange.
+
+1: Water Jet
+Priority: High
+
+If only one power up could be programmed, this would be the one. It would reduce the spray of 
+the user's water jet, while also significantly increasing the velocity of the water released. 
+This would also drain the water supply faster. This high velocity jet would be capable of cutting
+through the opponents jet, making it very difficult to defend against.
+
+2: Water Spray
+Priority: High
+
+This is the effective opposite of the jet. It causes the water jet to fan out, covering a massive
+area. While very easy to block (even more so than the regular jet), it's coverage allows it to
+trigger multiple spinners at once. This power up would greatly increase water consumption
+
+3: Burst
+Priority: Med
+
+This power up simply fires off the players entire supply of water in a single burst upon firing.
+This would take the form of a huge bubble of water (perhaps being coded in a way that it only fires
+a single object, that bursts into multiple normal water blobs upon hitting a wall with the same 
+velocity as the initial bubble). This bubble would be heavy enough to practically ignore the
+enemy water.
+
+An interesting idea could be that this power up could, instead of using the water supply of the one
+who got it, would create a new amount of water that would not be added to either players supply.
+It would also be possible to use your cannon to direct and move this sphere of water, allowing 
+players to battle it out to get the water to hit the opponents spinners.
+
+4: Lava
+Priority: Med
+
+This power up would temporarily cause all the water fired by the player to be replaced by lava.
+This lava would cause any water it touched to change to steam, which would float up untill it 
+touched either a wall or a ceiling, at which point it would condense back to water and drop down.
+
+5: Gunk
+Priority: Low
+
+This power up would temporarily cause all the water fired by the player to be replaced by sticky
+gunk. This sludge sticks to water and forms both up into big clumps. These clumps would be able
+to enitrely block drains, preventing opponents from being able to get any water for a while. Once
+the power up wears off, it would lose its stickyness causing clumps to collapse and drain away.
+
+6:Beam
+Priority: Low
+
+This power up changes the jet of water particles to a solid beam. Other water cannot pass through
+it and will simply bounce off. Upon hitting a spinner it would apply a large amount of force (equal
+to the water jet power). This power up cannot be switched off, the player will always be firing
+while this power up is active but will still drain water, and will do so quite fast. 
+
+7:Vacum
+Priority: Low
+This power up changes the players water jet to instead suck in any water that comes into it's cone
+shaped area of effect. This does not use water, and sucked in water is added to the players water
+supply.This power up only lasts for a short time. If it turns out that this power up is too strong,
+it could be changed to instead even out the absorbed water between players, but not allow players 
+to use collected untill the effect has worn off (likely leading to a frantic battle once both
+players suddenly have a very even amount of water).
+
+8:

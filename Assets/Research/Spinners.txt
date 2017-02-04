@@ -1,0 +1,32 @@
+Various spinners and devices to aim your water jets at. 
+
+1: Vertical spinner
+A cross shaped spinner that pivots around the middle. If hit in the middle it's less likely
+it will actually spin. Causing it to spin gives a steady stream of points.
+
+2: Horizontal spinner
+A disk shaped spinner that pivots at the top and bottom, it will spin as long as it is hit. 
+Like the veritcal spinner it gives a steady steam of points though slightly less as it is easier
+to use.
+
+3: Water 'scoop'
+A small, quarter circle shaped  bucket that fills with water. Once full, it drops releasing any
+water collecting and giving a medium quantity of points.
+
+4: Large tank
+A large tank that can be filled up with water by hitting the funnel on its top. It takes a lot
+of water to fill, and gives a large amount of points when filled. When full, the bottom drops out
+and it releases all the water into the middle drain, filling both players tanks.
+
+5: Water Grill
+A tank of water embedded into the wall, this tank is covered by a grill with thin openings. While
+it gives a massive quantity of points, it takes a long time to fill, and releases all water
+directly into the tank of water it is attached to.
+
+6: Leaking bucket
+Similar to the water scoop, however this bucket is ruptured and will gradually leak water. Thus, it
+requires being filled quickly or the players effort will be lost. It gives a good amount of points.
+
+7: Folding Target
+A target on a stick, when hit it folds back, giving a small amount of points. It only requires
+a tiny amount of water to trigger it. An example for the target could be a rubber duck.
