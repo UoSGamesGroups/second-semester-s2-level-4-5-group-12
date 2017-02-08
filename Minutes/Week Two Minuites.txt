@@ -1,0 +1,29 @@
+Week One Meeting
+
+Members present-
+River
+Douglas
+Elliot
+
+Meeting
+The meeting with chris was not required for us this week since so far we have encountered no significant issues with coding.
+
+Tasks:
+
+Elliot:
+Get a prototype working with both water jets, controllable with WSAD/Arrow keys, and get the basic spinners working and giving points. Time: 6 hours
+
+Joe:
+Create 3 background images for the game, one for each theme (Carnival, Industrial, Futuristic). Time: 3 hours
+Create 3 background images for the main menu screen, should include room for a 'Start', 'Controls' and 'Quit' Button, make a mockup with these buttons included
+so we can get an idea how it will look. Same themes as the other task. Time: 3 hours
+
+River:
+Management (set jira tasks ect). Time: 1 hour
+Make a questionare for playtests to fill in. Time: 1 hour
+Create buttons for the UI and menus. Time: 3 hours
+
+Douglas:
+Create finished art for spinners, 3 varients for each, make as many as possible. Time: 4 hours
+Create finished art for water cannons, 3 varients (more if possible). Time: 1 hour
+
