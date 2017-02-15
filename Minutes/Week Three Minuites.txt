@@ -1,0 +1,30 @@
+
+Week One Meeting
+
+Members present-
+River
+Douglas
+Joe
+
+Meeting
+The meeting with Dave involved us showing off our game and recieving feedback
+
+Tasks:
+
+Elliot:
+No tasks set yet, pending a meeting to find out exactly where the game is currently in terms of code. Time: 6 hours
+
+Joe:
+Continue work on the backgrounds, improve/iterate existing backgrounds and create a background fitting the new theme. Time: 5 hours
+Playtesting, including distributing the game to others to test. Use the existing playtesting doccument under research. Time: 1 hour
+
+River:
+Management. Time: 1 hour
+UI work. Time: 3 hours
+Playtesting. Time: 1 hour
+
+Douglas:
+Create spinners for the third theme (Steampunk, lots of wood and brass fittings). Time: 2 hours
+Create artwork for the drains at the bottom. Time: 2 hours
+Create art for new water jet. Time: 1 hour
+
