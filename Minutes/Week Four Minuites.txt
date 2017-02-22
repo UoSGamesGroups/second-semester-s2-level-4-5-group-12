@@ -1,0 +1,31 @@
+
+Week Four Meeting
+
+Members present-
+River
+Douglas
+Joe
+Elliot
+
+Meeting
+The meeting with Rob went over the issues noted in past postmortems from projects. 
+Tasks:
+
+
+Elliot:
+Finish all spinners. Time: 3 hours
+Make first moveing spinner. Time: 2 hours
+Make the main menu screen. Time: 1 hour
+(Untimed) Put up the latest build of the game when tasks are done and inform the group of this.
+
+Joe:
+Continue work on the backgrounds. Time: 6 hours
+
+River:
+Continue UI work. Time: 3 hours
+Management. Time: 1 hour
+Playtesting. Time: 1 hour
+
+Douglas:
+Draw Moving spinners and rails. Time: 4 hours
+Get footage of latest version of the game for presentation. Time: 1 hour
