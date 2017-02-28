@@ -1,0 +1,41 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.20.16.4589
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.531 seconds
+Platform assembly: F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\prototype 2\Builds\2ndPresentationBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 5760x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.644886 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuScript.MusicSound (Single Lvl) [0x00000] in <filename unknown>:0 
+  at MenuScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3188 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.484885 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 2.290221 ms (FindLiveObjects: 0.177333 ms CreateObjectMapping: 0.057333 ms MarkObjects: 1.981776 ms  DeleteObjects: 0.069777 ms)
+
