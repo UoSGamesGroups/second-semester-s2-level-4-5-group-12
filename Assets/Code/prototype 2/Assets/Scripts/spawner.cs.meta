@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9be2cf7ff2993944188448ff099ab323
+timeCreated: 1485799506
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - waterCircle: {fileID: 1415330891914434, guid: 6c474f3700da5f647ba596a0f8ecc064,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
