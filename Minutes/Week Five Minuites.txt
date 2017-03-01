@@ -1,0 +1,31 @@
+
+Week Four Meeting
+
+Members present-
+River
+Douglas
+Joe
+Elliot
+
+Meeting
+The presentation with Dave and Eddie went fairly well, but was noted to be very short. It was suggested that we add more slides further focusing down on
+the work needed. It has also been suggested that the UI and Graphics still need work, especially in the presentation.
+
+Tasks:
+
+
+Elliot:
+Finish all spinners listed. Time:  5 hours
+Get the pause screen working. Time: 1 hour
+
+Joe:
+Re-do carnival scene enirely. Time: 3 hours
+Repair steampunk scene (Line up gears, circularise outer sections, get teeth evened ect). Time:3 hours
+
+River:
+Continue UI work. Time: 4 hours
+Management. Time: 1 hour
+
+Douglas:
+Add variants of each water jet for all power ups. Time: 4 hours
+Start work on the walls for each side. Time: 2 hours
