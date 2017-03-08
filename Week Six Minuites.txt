@@ -1,0 +1,33 @@
+
+Week Four Meeting
+
+Members present-
+River
+Douglas
+Joe
+Elliot
+
+Meeting
+The meeting with Chris was a bit of a non-event since we had no real issues with coding. In our meeting,
+we discussed where we were in the game, possible ways to improve the art we have and what needed doing 
+next
+
+Tasks:
+
+
+Elliot:
+Continue work on spinners. Time: 2 hours
+Continue work on menus. Time: 1 hour
+Work on implementing sound effects. Time: 3 hours
+
+Joe:
+Playtesting. Also, hand it out to others, and get video footage of others playing it. Time: 4 hours
+Continue work on backgrounds. Time: 2 hours
+
+River:
+Continue UI work. Time: 4 hours
+Management. Time: 1 hour
+
+Douglas:
+Create the water tanks to go down either side. Time: 3 hours
+Re-do the moving spinners. Time: 2 hours
