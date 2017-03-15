@@ -35,7 +35,7 @@ public class waterscript : MonoBehaviour {
     {
         moveDir = new Vector3(speed, 0, 0);
     }
-    public void SetColour(Color color)
+    public void SetColour(Color32 color)
     {
         this.GetComponent<SpriteRenderer>().color = color;
     }

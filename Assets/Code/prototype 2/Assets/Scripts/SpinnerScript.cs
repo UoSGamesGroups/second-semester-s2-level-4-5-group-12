@@ -35,7 +35,7 @@ public class SpinnerScript : MonoBehaviour {
         }
     }
 
-    void AddPoints(float amt)
+    public void AddPoints(float amt)
     {
         points += amt;
     }

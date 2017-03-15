@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: ee5760261ee51c74da9d960f00c98dca
-timeCreated: 1488319319
+timeCreated: 1489464074
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Drain1
+    21300000: CarnivalDrain
+    21300002: SteampunkDrain
+    21300004: IndustrialDrain
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -87,11 +89,37 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Drain1
+      name: CarnivalDrain
       rect:
         serializedVersion: 2
         x: 0
         y: 32
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SteampunkDrain
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialDrain
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
         width: 128
         height: 32
       alignment: 0

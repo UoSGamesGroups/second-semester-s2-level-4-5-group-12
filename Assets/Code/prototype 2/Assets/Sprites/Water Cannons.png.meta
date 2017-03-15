@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: 1c9ab4437b9ba074087858569f22bc8d
-timeCreated: 1488318592
+timeCreated: 1489463772
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: WaterCannon1
+    21300000: CarnivalWaterCannon
+    21300002: IndustrialWaterCannon
+    21300004: SteampunkWaterCannon
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -87,7 +89,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WaterCannon1
+      name: CarnivalWaterCannon
       rect:
         serializedVersion: 2
         x: 24
@@ -96,6 +98,32 @@ TextureImporter:
         height: 27
       alignment: 9
       pivot: {x: 0.2933047, y: 0.47169846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialWaterCannon
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 543
+        width: 85
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SteampunkWaterCannon
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 423
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

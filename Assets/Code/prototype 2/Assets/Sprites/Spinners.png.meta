@@ -1,11 +1,21 @@
 fileFormatVersion: 2
 guid: 65094896875889f418185bcb93623ebe
-timeCreated: 1488318904
+timeCreated: 1489557533
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: DripBucket
-    21300002: Spinners_0
+    21300000: CarnivalLeakingBucket
+    21300002: CarnivalSpinner
+    21300004: SteampunkLeakingBucket
+    21300006: CarnivalBucket
+    21300008: IndustrialLeakingBucket
+    21300010: IndustrialSpinner
+    21300012: SteampunkSpinner
+    21300014: SteampunkBucket
+    21300016: IndustrialBucket
+    21300018: SteampunkTank
+    21300020: CarnivalTank
+    21300022: IndustrialTank
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -88,7 +98,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DripBucket
+      name: CarnivalLeakingBucket
       rect:
         serializedVersion: 2
         x: 340
@@ -101,13 +111,143 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Spinners_0
+      name: CarnivalSpinner
       rect:
         serializedVersion: 2
         x: 0
         y: 419
         width: 65
         height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CarnivalBucket
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 410
+        width: 56
+        height: 44
+      alignment: 9
+      pivot: {x: 0.1330106, y: 0.15330297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SteampunkLeakingBucket
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 271
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialLeakingBucket
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 534
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialSpinner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SteampunkSpinner
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 311
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SteampunkBucket
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 296
+        width: 71
+        height: 41
+      alignment: 9
+      pivot: {x: 0.1061006, y: 0.18477798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialBucket
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 536
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.07967696, y: 0.07284251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SteampunkTank
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 213
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CarnivalTank
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 359
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IndustrialTank
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 470
+        width: 62
+        height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
