@@ -1,0 +1,29 @@
+
+Week Four Meeting
+
+Members present-
+River
+Douglas
+Joe
+Elliot
+
+Meeting
+The meeting with Dave brought up the biggest current issue with the project, notably that the visual heirachy was unclear. The water jets looked a bit stange as the water was far to large for the nozzle
+and the moving spinner was a bit too noticeable (mostly down to it's high movement speed).
+
+Tasks:
+
+
+Elliot:
+Continue work on assembling the game. Time: 6 hours
+
+Joe:
+Continue work on the backgrounds-improve the quality as much as possible. Time: 6 hours
+
+River:
+Playtesting. Time: 4hours
+Management. Time: 1 hour
+
+Douglas:
+Make own versions of the backgrounds. Time: 4 hours
+Create mock up layout with existing art. Time: 1 hours
