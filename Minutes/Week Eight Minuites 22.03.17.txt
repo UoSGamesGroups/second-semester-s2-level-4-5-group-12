@@ -1,0 +1,29 @@
+
+Week Four Meeting
+
+Members present-
+River
+Douglas
+Elliot
+
+Meeting
+In our meeting with rob, we went over the status of the group project. Issues raised were the lack of dates on the minuites (now fixed from this week on), a lack of communication and low hours.
+
+Tasks:
+
+
+Elliot:
+Bugfix currently existing spinners. Time: 1 hour
+Put UI together and construct all menus. Get the game to a state where we can send it out for
+playtests and won't have to explain anything to those testing. Time: 5 hours
+
+Joe:
+Splash Screens. Time: 6 hours
+
+River:
+Management. Time: 1 hour
+Playtesting. Time: 4 hours
+
+Douglas:
+Re-do art assets to create yellow/green versions to help with visual heirachy. Time: 3 hours
+Playtesting. Time: 2 hours
