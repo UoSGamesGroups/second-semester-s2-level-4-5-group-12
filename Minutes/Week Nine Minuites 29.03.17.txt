@@ -1,0 +1,35 @@
+
+Week Nine Meeting
+
+Members present-
+River
+Douglas
+Elliot
+
+Meeting
+In our presentation with Eddie and Chris, we recieved feedback on the current state of the project. The main point
+brought up was very similar to last week-the game is not visually clear enough and needs clarification.
+
+Tasks:
+
+
+Elliot:
+Finish UI Implementation (Words in menus and adding the timer). Time: 1 hour
+
+Add the water tank sprites and walls in. Update spinners and jet on one side to the green colour.
+Add the large bore water jet as well. Time: 3 hours
+
+Construct a prototype for the final level layout. Time: 2 hours
+
+Joe:
+Splash Screens. Time: 6 hours
+
+River:
+Management. Time: 1 hour
+
+Playtesting. Time: 4 hours
+
+Douglas:
+Add art for clarification, pipes from the drains ect 3 hours
+
+Playtesting. Time: 2 hours
